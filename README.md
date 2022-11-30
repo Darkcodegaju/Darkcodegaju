@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darkcodegaju
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...web development and Android development 
+- 🌱 I’m currently learning ...web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  gj05112003@gamil.com
 
